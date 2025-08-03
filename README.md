@@ -1,4 +1,4 @@
-# 🧠 Desafio JavaScript 1 – Programação Web
+# 🧠 Desafio 1 - Aplicação Web – Programação Web
 
 Este repositório contém os exercícios do **Desafio 1 de Programação Web**, proposto com foco no aprendizado prático de **JavaScript**. Os exercícios estão organizados em três partes principais: Algoritmos Sequenciais, Estruturas Condicionais e Laços de Repetição.
 
@@ -105,3 +105,4 @@ Gabriel Sandes
 🔗 Linkedin: https://www.linkedin.com/in/gabriel-santos-de-sandes-476129299/
 
 🔗 GitHub: https://github.com/Gabrielsande
+
